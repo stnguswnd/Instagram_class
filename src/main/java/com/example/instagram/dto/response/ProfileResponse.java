@@ -31,7 +31,6 @@ public class ProfileResponse {
                 .build();
     }
 
-
     public static ProfileResponse from(
             User user,
             long postCount,
